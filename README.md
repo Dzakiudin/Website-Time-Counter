@@ -2,6 +2,8 @@
 
 Website Time Counter adalah ekstensi Chrome *open-source* sederhana yang membantu Anda melacak total waktu yang dihabiskan di setiap situs web setiap hari. Ini adalah alat yang hebat untuk memahami dan mengelola kebiasaan digital Anda.
 
+![alt text](https://github.com/Dzakiudin/Website-Time-Counter/blob/main/public/Screenshot%202025-10-19%20061526.png?raw=true)
+
 ## 📜 Tentang Proyek
 
 Proyek ini dibuat untuk menyediakan cara yang ringan dan *privacy-first* untuk memantau produktivitas atau kebiasaan *browsing*. Semua data disimpan secara lokal di *browser* Anda dan direset secara otomatis setiap hari.
